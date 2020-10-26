@@ -1,0 +1,12 @@
+2020-10-27 01:16:31,034 [main] INFO flipkart - ***launching chrome***
+2020-10-27 01:16:34,856 [main] INFO flipkart - ***launching flipkart***
+2020-10-27 01:16:37,087 [main] INFO flipkart - ***login ***
+2020-10-27 01:16:39,171 [main] INFO flipkart - ***entering user name ***
+2020-10-27 01:16:41,274 [main] INFO flipkart - ***entering password ***
+2020-10-27 01:16:45,338 [main] INFO flipkart - ***searching product ***
+2020-10-27 01:16:49,536 [main] INFO flipkart - ***selecting product ***
+2020-10-27 01:16:51,635 [main] INFO flipkart - ***switching to new tab ***
+2020-10-27 01:16:53,654 [main] INFO flipkart - ***sadding to kart  ***
+2020-10-27 01:16:57,749 [main] INFO flipkart - ***viewing home ***
+2020-10-27 01:16:59,818 [main] INFO flipkart - ***opening kart ***
+2020-10-27 01:17:01,897 [main] INFO flipkart - ***closing the browser ***
